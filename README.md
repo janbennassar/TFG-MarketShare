@@ -22,8 +22,8 @@ At the volume required for production (20,000+ seeds, 4 major US retailers), the
 
 ## Contents
 
-- [`TFG_JoanBennassarMartin.pdf`](./TFG_JoanBennassarMartin.pdf) — Full thesis document
-- [`Scaling_AI-Driven_Market_Share_Estimation_to_Production.pdf`](./Scaling_AI-Driven_Market_Share_Estimation_to_Production.pdf) — Defense presentation slides
+- [`TFG-JoanBennassarMartin.pdf`](./TFG-JoanBennassarMartin.pdf) — Full thesis document
+- [`TFG-slides.pdf`](./TFG-slides.pdf.pdf) — Defense presentation slides
 
 ## Abstract
 
