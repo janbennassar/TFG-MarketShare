@@ -23,7 +23,7 @@ At the volume required for production (20,000+ seeds, 4 major US retailers), the
 ## Contents
 
 - [`TFG-JoanBennassarMartin.pdf`](./TFG-JoanBennassarMartin.pdf) — Full thesis document
-- [`TFG-slides.pdf`](./TFG-slides.pdf.pdf) — Defense presentation slides
+- [`TFG-slides.pdf`](./TFG-slides.pdf) — Defense presentation slides
 
 ## Abstract
 
